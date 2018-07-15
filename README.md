@@ -8,4 +8,4 @@ Basic C# programming for beginners.
 2.To check prime number or not.
 
 
-2.Palindrome number.
+3.Palindrome number.
