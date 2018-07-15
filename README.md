@@ -5,3 +5,6 @@ Basic C# programming for beginners.
 
 
 2.Fibonacci series.
+
+
+3.Palindrome number.
